@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axolscozytimer-cmyk.github.io/test-agent-calculateur-heures-decimales/sitemap.xml
